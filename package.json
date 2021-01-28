@@ -11,7 +11,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "jquery": "^3.4.1",
-    "electron": "^8.0.2"
+    "electron": "^9.4.0"
   },
   "scripts": {
     "electron-start": "electron .",
